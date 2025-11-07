@@ -6,6 +6,7 @@ A list of Threat Intelligence resources
 ## Active Tool Analysis
 
 | **Source** | **Description** |
+| --- | --- |
 | [AbuseIPDB](https://www.abuseipdb.com) | Dedicated to helping combat the spread of hackers, spammers, and abusive activity on the internet. It's mission is to help make Web safer by providing a central blacklist for webmasters, system administrators, and other interested parties to report and find IP addresses that have been associated with malicious activity online. You can report an IP address associated with malicious activity, or check to see if an IP address has been reported, by using the search box |
 | [AnyRun](https://app.any.run) | Interactive online malware sandbox. Track processes in real time, analyze malware behavior instantly |
 | [CyberChef](https://gchq.github.io/CyberChef) | A web app for encryption, encoding, compression and data analysis |
@@ -25,7 +26,9 @@ A list of Threat Intelligence resources
 | [VirusTotal](https://www.virustotal.com/gui/home/upload) | Analyse suspicious files, domains, IPs and URLs to detect malware and other breaches, automatically share them with the security community |
 
 ## Passive Threat Research
-| **Source** | **Description |
+
+| **Source** | **Description** |
+| --- | --- |
 | [Crowdsec](https://app.crowdsec.net/cti) | CrowdSec is an open-source and participative security solution offering crowdsourced server detection and protection against malicious IPs |
 | [CVE](https://www.cve.org) | Identify, define, and catalog publicly disclosed cybersecurity vulnerabilities |
 | [Cyber Gov](https://www.cyber.gov.au) | Latest alerts and advisories from the ASD |

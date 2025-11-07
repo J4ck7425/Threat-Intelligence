@@ -1,5 +1,5 @@
 # Threat-Intelligence
-A list of Threat Intelligence resources
+An expanding list of Threat Intelligence resources to learn from and use.
 
 **Threat intelligence** refers to the collection, processing, and analysis of data to understand a threat actor’s motives, targets, and attack methods. It transforms raw data into actionable insights, enabling security teams to make informed, data-driven decisions. This shifts organizations from a reactive to a proactive stance in defending against cyber threats - [Crowdstrike 101](https://www.crowdstrike.com/en-us/cybersecurity-101/threat-intelligence/)
 

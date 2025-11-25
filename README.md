@@ -13,7 +13,7 @@ An expanding list of Threat Intelligence resources to learn from and use.
 | [Hybrid Analysis](https://hybrid-analysis.com) | This is a free malware analysis service for the community that detects and analyzes unknown threats using a unique Hybrid Analysis technology |
 | [Kaspersky](https://opentip.kaspersky.com) | Check any threat indicator that you consider suspicious, whether it is a file, file hash, IP address or web address |
 | [MX Lookup](https://mxtoolbox.com) | This test will list MX records for a domain in priority order. The MX lookup is done directly against the domain's authoritative name server, so changes to MX Records should show up instantly. You can click Diagnostics , which will connect to the mail server, verify reverse DNS records, perform a simple Open Relay check and measure response time performance. You may also check each MX record (IP Address) against 105 DNS based blacklists |
-| [Phisly](https://phish.ly) | Forward a suspicious email (or an .eml attachment) to scan@phish.ly, Tines will automatically analyze the URLs with urlscan and send you a report |
+| [Phishly](https://phish.ly) | Forward a suspicious email (or an .eml attachment) to scan@phish.ly, Tines will automatically analyze the URLs with urlscan and send you a report |
 | [Shodan](https://www.shodan.io) | Shodan is the world's first search engine for Internet-connected devices |
 | [SSL Labs](https://www.ssllabs.com/ssltest) | This free online service performs a deep analysis of the configuration of any SSL web server on the public Internet |
 | [Talos Intelligence](https://talosintelligence.com) | A proven threat intelligence team of researchers, analysts and incident responders, provides leading security research and response globally |

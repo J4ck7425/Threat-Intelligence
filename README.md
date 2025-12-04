@@ -33,7 +33,7 @@ An expanding list of Threat Intelligence resources to learn from and use.
 | [CVE](https://www.cve.org) | Identify, define, and catalog publicly disclosed cybersecurity vulnerabilities |
 | [Cyber Gov](https://www.cyber.gov.au) | Latest alerts and advisories from the ASD |
 | [GTFOBins](https://gtfobins.github.io) | A curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems |
-| [HaveIBeeNPwned](https://haveibeenpwned.com/) | Have I Been Pwned allows you to check whether your email address has been exposed in a data breach |
+| [HaveIBeenPwned](https://haveibeenpwned.com/) | Have I Been Pwned allows you to check whether your email address has been exposed in a data breach |
 | [James Brine Threat Intelligence](https://jamesbrine.com.au) | Daily threat intelligence feeds for malicious IP addresses from internationally located honeypots on cloud and private infrastructure covering a variety of protocols including SSH, FTP, RDP, GIT, SNMP and REDIS |
 | [LOLBAS](https://lolbas-project.github.io) | Windows binaries. Living Off The Land Binaries, Scripts and Libraries |
 | [LOLDrivers](https://www.loldrivers.io) | A curated list of Windows drivers used by adversaries to bypass security controls and carry out attacks. The project helps security professionals stay informed and mitigate potential threats |

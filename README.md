@@ -32,6 +32,7 @@ An expanding list of Threat Intelligence resources to learn from and use.
 | [Crowdsec](https://app.crowdsec.net/cti) | CrowdSec is an open-source and participative security solution offering crowdsourced server detection and protection against malicious IPs |
 | [CVE](https://www.cve.org) | Identify, define, and catalog publicly disclosed cybersecurity vulnerabilities |
 | [Cyber Gov](https://www.cyber.gov.au) | Latest alerts and advisories from the ASD |
+| [FlightRader](https://www.flightradar24.com/) | Live flight tracker that shows air traffic in real time |
 | [GTFOBins](https://gtfobins.github.io) | A curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems |
 | [HaveIBeenPwned](https://haveibeenpwned.com/) | Have I Been Pwned allows you to check whether your email address has been exposed in a data breach |
 | [James Brine Threat Intelligence](https://jamesbrine.com.au) | Daily threat intelligence feeds for malicious IP addresses from internationally located honeypots on cloud and private infrastructure covering a variety of protocols including SSH, FTP, RDP, GIT, SNMP and REDIS |

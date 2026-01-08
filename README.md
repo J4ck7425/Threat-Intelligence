@@ -45,6 +45,7 @@ An expanding list of Threat Intelligence resources to learn from and use.
 | [OSINT Framework](https://osintframework.com) | OSINT framework focuses on gathering information from free tools or resources. The intention is to help people find free OSINT resources |
 | [RITA](https://www.activecountermeasures.com/free-tools/rita/) | Real Intelligence Threat Analytics (R-I-T-A) is an open-source framework for detecting command and control communication through network traffic analysis |
 | [ShellSharks](https://shellsharks.com/infosec-tools#title) | A list of information security tools to use for assessments, investigations and other cybersecurity tasks |
+| [Situtation Monitor](https://hipcityreg.github.io/situation-monitor/) | Contextual geopolitical updates regarding a variety of industries |
 | [The Hacker News](https://thehackernews.com/) | Top and reliable source for the latest updates in cybersecurity |
 | [ThreatFox](https://threatfox.abuse.ch/browse) | ThreatFox is a platform from abuse.ch and Spamhaus dedicated to sharing indicators of compromise (IOCs) associated with malware, with the infosec community, AV vendors and cyber threat intelligence providers. Upload IOCs and explore the database for valuable intelligence. Use the APIs to seamlessly push and pull signals, and automate bulk queries |
 | [URLDecoder](https://meyerweb.com/eric/tools/dencoder/) | Input a string of text and encode or decode it as you like. Handy for turning encoded JavaScript URLs from complete gibberish into readable gibberish |

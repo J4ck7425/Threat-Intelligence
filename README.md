@@ -43,6 +43,7 @@ An expanding list of Threat Intelligence resources to learn from and use.
 | [MalwareTech](https://malwaretech.com) | Cybersecurity articles written by Marcus Hutchins |
 | [MITRE ATT&CK](https://attack.mitre.org) | A globally-accessible knowledge base of adversary tactics and techniques based on real-world observations. The ATT&CK knowledge base is used as a foundation for the development of specific threat models and methodologies in the private sector, in government, and in the cybersecurity product and service community |
 | [OSINT Framework](https://osintframework.com) | OSINT framework focuses on gathering information from free tools or resources. The intention is to help people find free OSINT resources |
+| [OWASP TOP 10](https://owasp.org/Top10/) | The OWASP Top 10 is a standard awareness document for developers and web application security. It represents a broad consensus about the most critical security risks to web applications |
 | [RITA](https://www.activecountermeasures.com/free-tools/rita/) | Real Intelligence Threat Analytics (R-I-T-A) is an open-source framework for detecting command and control communication through network traffic analysis |
 | [ShellSharks](https://shellsharks.com/infosec-tools#title) | A list of information security tools to use for assessments, investigations and other cybersecurity tasks |
 | [Situtation Monitor](https://hipcityreg.github.io/situation-monitor/) | Contextual geopolitical updates regarding a variety of industries |
